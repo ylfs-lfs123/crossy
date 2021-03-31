@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.ylfs.crossycode"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Crossy Code</name>
+  <description>A game like crossy road</description>
+  <author href="ylfs.blogspot.com" email="sbadar@gmail.com">
+      Little Fish Studio APPS
+  </author>
+  <icon src="icon.png" width="180" height="180" />
+  <platform name="android" />
+</widget>
